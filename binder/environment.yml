@@ -1,0 +1,6 @@
+name: bertopic
+dependencies:
+  - python=3.9
+  - pip:
+    - bertopic
+    - sentence-transformers
