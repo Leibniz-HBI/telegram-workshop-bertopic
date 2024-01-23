@@ -3,4 +3,4 @@ dependencies:
   - python=3.9
   - pip:
     - bertopic
-    - sentence-transformers
+#    - sentence-transformers
